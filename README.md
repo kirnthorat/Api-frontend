@@ -1,2 +1,3 @@
 # Api-frontend
-In which server-clint communication through a restful API
+RESTful-API with express.js and integrating with a frontend to perform CRUD operation
+
